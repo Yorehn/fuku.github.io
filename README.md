@@ -1,1 +1,1 @@
-hello world
+Página para materia de Negocios Electrónicos
